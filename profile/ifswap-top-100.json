@@ -1,0 +1,72 @@
+{
+  "name": "IFSwap Top 100",
+  "timestamp": "2021-12-01T17:00:00.000Z",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "logoURI": "",
+  "keywords": [
+    "ifswap",
+    "top 100"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped CET",
+      "symbol": "WCET",
+      "address": "0xE6f8988d30614afE4F7124b76477Add79c665822",
+      "chainId": 52,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "CSC Peg USDT",
+      "symbol": "USDT",
+      "address": "0x398dcA951cD4fc18264d995DCD171aa5dEbDa129",
+      "chainId": 52,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "CSC Peg USDC",
+      "symbol": "USDC",
+      "address": "0xF335B2440e62A953a42865aDf7bD73F4C6671A7b",
+      "chainId": 52,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "IFPool Staked CET",
+      "symbol": "iCET",
+      "address": "0x8EC3F54fF92e050ed339F3eE256d0AF6f7fE9Bd1",
+      "chainId": 52,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "IFToken",
+      "symbol": "IFT",
+      "address": "0x1D7C98750A47762FA8B45c6E3744aC6704F44698",
+      "chainId": 52,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "WaterLoan Token",
+      "symbol": "WAT",
+      "address": "0x355bf937D42dd19eE60f730D505B0aC03B03e2ae",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "OneSwap Token",
+      "symbol": "ONES",
+      "address": "0x9F4165009e93b7f5BA61A477ad08Cd3D1aD8aa36",
+      "chainId": 52,
+      "decimals": 18,
+      "logoURI": ""
+    }
+  ]
+}
