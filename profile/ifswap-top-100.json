@@ -6,7 +6,7 @@
     "minor": 1,
     "patch": 0
   },
-  "logoURI": "",
+  "logoURI": "https://raw.githubusercontent.com/IFWallet/csc_tokens/main/logo/IFS/logo.png",
   "keywords": [
     "ifswap",
     "top 100"
@@ -18,7 +18,7 @@
       "address": "0xE6f8988d30614afE4F7124b76477Add79c665822",
       "chainId": 52,
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/IFWallet/csc_tokens/main/logo/0xE6f8988d30614afE4F7124b76477Add79c665822/logo.png"
     },
     {
       "name": "CSC Peg USDT",
@@ -26,7 +26,7 @@
       "address": "0x398dcA951cD4fc18264d995DCD171aa5dEbDa129",
       "chainId": 52,
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/IFWallet/csc_tokens/main/logo/0x398dcA951cD4fc18264d995DCD171aa5dEbDa129/logo.png"
     },
     {
       "name": "CSC Peg USDC",
@@ -34,7 +34,7 @@
       "address": "0xF335B2440e62A953a42865aDf7bD73F4C6671A7b",
       "chainId": 52,
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/IFWallet/csc_tokens/main/logo/0xF335B2440e62A953a42865aDf7bD73F4C6671A7b/logo.png"
     },
     {
       "name": "IFPool Staked CET",
@@ -42,7 +42,7 @@
       "address": "0x8EC3F54fF92e050ed339F3eE256d0AF6f7fE9Bd1",
       "chainId": 52,
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/IFWallet/csc_tokens/main/logo/0x8EC3F54fF92e050ed339F3eE256d0AF6f7fE9Bd1/logo.png"
     },
     {
       "name": "IFToken",
@@ -50,7 +50,7 @@
       "address": "0x1D7C98750A47762FA8B45c6E3744aC6704F44698",
       "chainId": 52,
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/IFWallet/csc_tokens/main/logo/0x1D7C98750A47762FA8B45c6E3744aC6704F44698/logo.png"
     },
     {
       "name": "WaterLoan Token",
@@ -58,7 +58,7 @@
       "address": "0x355bf937D42dd19eE60f730D505B0aC03B03e2ae",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/IFWallet/csc_tokens/main/logo/0x355bf937D42dd19eE60f730D505B0aC03B03e2ae/logo.png"
     },
     {
       "name": "OneSwap Token",
@@ -66,7 +66,7 @@
       "address": "0x9F4165009e93b7f5BA61A477ad08Cd3D1aD8aa36",
       "chainId": 52,
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/IFWallet/csc_tokens/main/logo/0x9F4165009e93b7f5BA61A477ad08Cd3D1aD8aa36/logo.png"
     }
   ]
 }
