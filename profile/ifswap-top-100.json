@@ -56,7 +56,7 @@
       "name": "WaterLoan Token",
       "symbol": "WAT",
       "address": "0x355bf937D42dd19eE60f730D505B0aC03B03e2ae",
-      "chainId": 56,
+      "chainId": 52,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/IFWallet/csc_tokens/main/logo/0x355bf937D42dd19eE60f730D505B0aC03B03e2ae/logo.png"
     },
