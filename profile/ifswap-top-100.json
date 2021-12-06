@@ -6,12 +6,20 @@
     "minor": 1,
     "patch": 0
   },
-  "logoURI": "https://raw.githubusercontent.com/IFWallet/csc_tokens/main/logo/IFS/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/IFWallet/csc_tokens/main/logo/0x2cb256a216EB5c74Bf43A3Ff32b8Cd5bB55692Fe/logo.png",
   "keywords": [
     "ifswap",
     "top 100"
   ],
   "tokens": [
+    {
+      "name": "IFSwap Token",
+      "symbol": "IFS",
+      "address": "0x2cb256a216EB5c74Bf43A3Ff32b8Cd5bB55692Fe",
+      "chainId": 52,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/IFWallet/csc_tokens/main/logo/0x2cb256a216EB5c74Bf43A3Ff32b8Cd5bB55692Fe/logo.png"
+    },
     {
       "name": "Wrapped CET",
       "symbol": "WCET",
